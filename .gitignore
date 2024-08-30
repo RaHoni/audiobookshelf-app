@@ -89,5 +89,7 @@ sw.*
 # Vim swap files
 *.swp
 
+# Direnv
+/.direnv/
 /resources/
 /android/app/release/
